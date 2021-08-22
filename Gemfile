@@ -10,12 +10,12 @@ gem 'sass-rails', '5.0.7'
 gem 'sdoc', '0.4.2', group: :doc
 gem 'turbolinks', '5.2.1'
 gem 'uglifier', '4.2.0'
+gem 'web-console', group: :development
 
 group :development, :test do
   gem 'byebug', '11.1.3'
   gem 'sqlite3', '1.3.9' 
   gem 'spring', '2.1.1'
-  gem 'web-console', '2.3.0'
 end
 
 group :test do
