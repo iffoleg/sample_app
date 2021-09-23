@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 ruby '2.5.5'
 
+gem 'bootstrap-will_paginate'
+gem 'will_paginate'
+gem 'faker'
 gem 'bcrypt',         '3.1.12'
 gem 'bootstrap-sass', '3.4.1'
 gem 'coffee-rails',   '4.1.1'
